@@ -1,0 +1,1 @@
+Developed a model using naive bayes classifier to detect spam email classification. Preprocessed the dataset using nlp techniques like stop words removal , lemmatization and stemming. Compared the model accuracy using unigram bigram and trigram. 
